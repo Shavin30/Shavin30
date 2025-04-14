@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shavin de Silva</h1>
 <h3 align="center">A passionate Computer Science Undergratuate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shavin30&label=Profile%20views&color=0e75b6&style=flat" alt="shavin30" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=shavin30&label=Profile%20views&color=0e75b6&style=flat" alt="shavin30" /> </p>
 
 - 🌱 I’m currently learning **Java, JavaScript**
 
-- 💬 Ask me about **Python, HTML, CSS,**
+- 💬 Ask me about **Python, Java, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **shavindesilva360@gmail.com**
 
